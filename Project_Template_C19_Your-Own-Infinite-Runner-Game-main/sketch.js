@@ -7,10 +7,10 @@ var score = 0;
 
 
 function preload(){
-backgroundImg = loadImage("Screen Shot 2021-07-28 at 5.58.23 PM.png");
-octopusImg = loadImage("PikPng.com_octopus-png_2992456.png");
-fishImg = loadImage("pngfind.com-dory-png-58440.png");
-bagImg = loadImage("kisspng-plastic-bag-bin-bag-recycling-clip-art-plastic-5ac06d55ad8b12.9247423115225603417108.png");
+backgroundImg = loadImage("background.png");
+octopusImg = loadImage("octopus.png");
+fishImg = loadImage("fish.png");
+bagImg = loadImage("bag.png");
 }
 
 function setup() {
